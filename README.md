@@ -1,6 +1,10 @@
 # FirstKit
 Latest release version: 1.2.1
-Latest beta version: 1.3.0BETA1
+Latest beta version: 1.3.0BETA2
+
+Changelog for beta 1.3.0:
+-Bugs and more bugs fixed
+-Added fkinfo command to show info about plugin
 
 Changelog for beta 1.3.0:
 -Pretty much a complete rewrite of the plugin, now with better config files, better player managment, group support. Once we
