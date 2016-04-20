@@ -1,6 +1,10 @@
 # FirstKit
 Latest release version: 1.2.1
-Latest beta version: 1.3.0BETA2
+Latest beta version: 1.3.0BETA3
+
+Changelog for beta 1.3.0 3:
+-Bugs, bugs and bugs fixed.
+-Did I mention a lot of bugs were fixed?
 
 Changelog for beta 1.3.0:
 -Bugs and more bugs fixed
