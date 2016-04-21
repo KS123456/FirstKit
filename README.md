@@ -1,6 +1,8 @@
 # FirstKit
-Latest release version: 1.2.1
-Latest beta version: 1.3.0BETA3
+Latest release version: 1.3.0
+
+Changelog for beta 1.3.0:
+- See bukkit-dev
 
 Changelog for beta 1.3.0 3:
 -Bugs, bugs and bugs fixed.
