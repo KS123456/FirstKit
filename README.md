@@ -1,5 +1,8 @@
 # FirstKit
-Latest release version: 1.3.0
+Latest release version: 1.3.1
+
+Changelog for version 1.3.0:
+- See bukkit-dev
 
 Changelog for version 1.3.0:
 - See bukkit-dev
